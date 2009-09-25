@@ -5,7 +5,7 @@
 
   namespace FlyweightPattern {
 
-    // Flyweight Pattern        Judith Bishop  Sept 07
+    // Flyweight Pattern        Judith Bishop  Sept 07sdf
     // Defined for state which is images
   
     // IFlyweight Interface
