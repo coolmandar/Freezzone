@@ -1,4 +1,4 @@
-//   Google Maps User Control for ASP.Net version 1.0:
+//   Google Maps User Control for ASP.Net version 1.0://sdfsdfds
 //   ========================
 //   Copyright (C) 2008  Shabdar Ghata 
 //   Email : ghata2002@gmail.com
